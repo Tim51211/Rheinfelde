@@ -189,7 +189,7 @@ footer {
   <div class="server-status online" id="serverStatus">
     <h3>Server Status</h3>
     <p>Status: <span id="statusText">Online</span></p>
-    <p>Spieler online: <span id="playerCount">24</span>/100</p>
+    <p>Spieler online: <span id="playerCount">0</span>/64</p>
     <p>Ping: <span id="serverPing">45ms</span></p>
   </div>
 </div>
