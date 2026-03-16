@@ -246,6 +246,12 @@ Discord öffnen
 
 <p>Bitte lies unser Regelwerk bevor du auf dem Server spielst.</p>
 
+<section class="section" id="regeln">
+
+<h2>Server Regelwerk</h2>
+
+<p>Bitte lies unser Regelwerk bevor du auf dem Server spielst.</p>
+
 <div class="box">
 
 <h3>Roleplay Regeln</h3>
@@ -254,7 +260,7 @@ Discord öffnen
 Hier findest du alle wichtigen Regeln für unser Roleplay.
 </p>
 
-<a class="button" href="https://discord.gg/rREEXEza" target="_blank">
+<a class="button" href="https://docs.google.com/document/d/1LOSPAJj1ri-Yk2ifAiLxnUZJl4j7YQcDGoTjRNL6QTU/edit?usp=sharing" target="_blank">
 Regelwerk öffnen
 </a>
 
