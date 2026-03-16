@@ -242,7 +242,7 @@ Discord öffnen
 
 <section class="section" id="regeln">
 
-<h2>Server Regelwerk</h2>
+<h2>Discord Regelwerk</h2>
 
 <p>Bitte lies unser Regelwerk bevor du auf dem Server spielst.</p>
 
@@ -263,16 +263,6 @@ Regelwerk öffnen
 </section>
 
 <section class="section" id="discord">
-
-<h2>Discord Server</h2>
-
-<p>Trete unserer Community bei:</p>
-
-<a class="button" href="https://discord.gg/rREEXEza" target="_blank">
-Discord öffnen
-</a>
-
-</section>
 
 </main>
 
