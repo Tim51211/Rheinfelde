@@ -200,12 +200,7 @@ footer {
 <p style="font-size:20px">🚓 Polizei • 🚑 Rettungsdienst • 🚒 Feuerwehr • 🔧 Mechaniker • 💀 Fraktionen</p>
 </section>
 
-<section class="section" id="discord">
-<h2>Discord Server</h2>
-<p>Unser Community Server:</p>
-<p><a href="https://discord.gg/rREEXEza" target="_blank" class="button">https://discord.gg/rREEXEza</a></p>
-</section>
-</main>
+
 
 <footer>© 2026 Rheinfelde RP</footer>
 
